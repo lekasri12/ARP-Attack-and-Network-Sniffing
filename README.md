@@ -2,7 +2,6 @@
 # Explore Network Sniffing and ARP Attacks
 ### NAME : G LEKASRI
 ### REGISTER NUMBER : 212223100025
-
 # AIM:
 
 To explore network sniffing and ARP Attacks
